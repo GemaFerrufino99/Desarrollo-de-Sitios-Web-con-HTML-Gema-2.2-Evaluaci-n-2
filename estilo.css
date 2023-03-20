@@ -1,0 +1,17 @@
+*{
+    margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    width: 200px;
+    background: white;
+    font-family: Verdana;
+    margin-top: 500px;
+
+}
+
+.p{
+    font-family: Tahoma;
+}
